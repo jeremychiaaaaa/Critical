@@ -6,16 +6,14 @@
     },
     {
        "id":"2",
-        "title":"Facial",
+        "title":"Lung",
         "description":"Cosmetic surgery is a unique discipline of medicine focused on enhancing appearance through surgical and medical techniques. Cosmetic surgery can be performed on all areas of the head, neck and body. Because treated areas function properly but lack aesthetic appeal, cosmetic surgery is elective."
     },
     {
        "id":"3",
-        "title":"Plastic Surgery",
+        "title":"Orthopedic",
         "description":"Orthopedic surgery or orthopedics, is the branch of surgery concerned with conditions involving the musculoskeletal system. Orthopedic surgeons use both surgical and nonsurgical means to treat musculoskeletal trauma, spine diseases, sports injuries, degenerative diseases, infections, tumors, and congenital disorders."
     },
     
-
 ]
-
 }
